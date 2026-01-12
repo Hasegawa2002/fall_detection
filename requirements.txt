@@ -1,0 +1,6 @@
+#requirements.txt
+ultralytics
+streamlit
+opencv-python-headless
+numpy
+Pillow
