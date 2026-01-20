@@ -1,9 +1,5 @@
-# CPU版の配布場所を最優先に指定
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
-ultralytics
+#requirements.txt
 streamlit
+onnxruntime
 opencv-python-headless
 numpy
-Pillow
